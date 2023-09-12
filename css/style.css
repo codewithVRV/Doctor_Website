@@ -269,7 +269,7 @@ p {
 }
 
 
-/* .banner_wrapper .animate-img .aimg1 {
+.banner_wrapper .animate-img .aimg1 {
     left: -5.6875rem;
     position: absolute;
     -webkit-animation-name: movebounce;
@@ -284,10 +284,10 @@ p {
     animation-duration: 2s;
     -webkit-animation-direction: alternate;
     animation-direction: alternate;
-} */
+}
 
 
-/* .banner_wrapper .animate-img .aimg2 {
+.banner_wrapper .animate-img .aimg2 {
     margin-left: 1.5rem;
     -webkit-animation-name: movebounce;
     animation-name: movebounce;
@@ -301,7 +301,7 @@ p {
     animation-duration: 2.5s;
     -webkit-animation-direction: alternate;
     animation-direction: alternate;
-} */
+}
 
 .home .card:hover {
     -webkit-transform: translateY(-0.625rem);
